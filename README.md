@@ -4,7 +4,7 @@ This official repository contains the implementation of SCGA, a semantic structu
 
 🌐 **Project Site**: [Project](https://andyj1.github.io/scga)
 
-📖 **Paper**: [Paper](https://arxiv.org/pdf/2506.18248)
+📖 **Paper**: [Paper](https://proceedings.iclr.cc/paper_files/paper/2026/file/21dabaacda3edba8bb281da45d7cbc17-Paper-Conference.pdf) [arXiv](https://arxiv.org/pdf/2506.18248)
 
 **Jongoh Jeong**<sup>1</sup>, **Hunmin Yang**<sup>1,2</sup>, **Jaeseok Jeong**<sup>1</sup>, **Kuk-Jin Yoon**<sup>1</sup>
 
